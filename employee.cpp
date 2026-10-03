@@ -50,7 +50,9 @@ int main()
 	e.display();
 	
 	Employee e2("King",545,150000,20000);
+	e2.calculate();
 	e2.display();
+	
 	
 	return 0;
 }
